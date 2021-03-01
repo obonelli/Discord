@@ -1,0 +1,33 @@
+.sidebarChannel >h4 {
+    display: flex;
+    padding-left: 10px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2f3135;
+    color: gray;
+    cursor: pointer;   
+
+}
+
+.sidebarChannel__hash {
+    font-size: 30px;
+    padding: 8px;
+}
+
+.sidebar__deleteIcon {
+    padding-right: 10px;
+
+ }
+
+ .sidebar__deleteIcon > .MuiSvgIcon-root {
+   
+    cursor: pointer;
+   
+ }
+
+ .sidebarChannel__listId {
+    display: flex;
+    align-items: center;
+    width: 90%;
+ }
+
